@@ -19,7 +19,7 @@ It is designed for solo builders and AI power users working with Claude Code, Co
 ## Install
 
 ```bash
-npx skills add vjackwang-lang/ai-market-gap-finder --skill opportunity-finder
+npx skills add ai-micro-product-lab/ai-market-gap-finder --skill opportunity-finder
 ```
 
 The canonical Skill lives in [`opportunity-finder/`](./opportunity-finder/).
